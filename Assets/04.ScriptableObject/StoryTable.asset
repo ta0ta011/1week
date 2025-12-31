@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1858580f05aaee64ebe6ba36702ed0f5, type: 3}
+  m_Name: StoryTable
+  m_EditorClassIdentifier: Assembly-CSharp::NovelTable
+  entries:
+  - key: 1
+    data: {fileID: 11400000, guid: c53bdf26512ced54ead9712f0659bec8, type: 2}
+  - key: 5
+    data: {fileID: 11400000, guid: b5d5956642df9ec44a78eebfdcd9c3e2, type: 2}
+  - key: 6
+    data: {fileID: 11400000, guid: f4f49a2a86677b3409a375b05434e231, type: 2}
+  - key: 7
+    data: {fileID: 11400000, guid: e60095ff3b799864da7235725d5c5ab8, type: 2}
+  - key: 8
+    data: {fileID: 11400000, guid: f32c053ccfb690747ada00952e414c43, type: 2}
+  - key: 2
+    data: {fileID: 11400000, guid: 10c119b5c58e3a645b8a98a351c0b4c0, type: 2}
+  - key: 3
+    data: {fileID: 11400000, guid: 9dac0ca23cdf1ce4f91887b4da8d317f, type: 2}
+  - key: 4
+    data: {fileID: 11400000, guid: 3e9d7a435b65adc4e9d59de89bc3a179, type: 2}
